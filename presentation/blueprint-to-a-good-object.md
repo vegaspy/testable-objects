@@ -39,7 +39,7 @@ are dependent on each other in order to communicate. To make objects more loosel
 or [publish/subscribe](https://en.wikipedia.org/wiki/Publish/subscribe) design patterns to facilitate communication
 between objects. Design patterns such as
 [chain of responsibility](https://en.wikipedia.org/wiki/Chain_of_responsibility_pattern),
-[comamnd](https://en.wikipedia.org/wiki/Command_pattern), and
+[command](https://en.wikipedia.org/wiki/Command_pattern), and
 [strategy](https://en.wikipedia.org/wiki/Strategy_pattern) can be used to abstract functionality to a manner similar to
 [middleware](https://en.wikipedia.org/wiki/Middleware).
 
