@@ -4,11 +4,13 @@ Testable Objects
 Testable objects is primer for writing good objects that are highly testable in Python. The priciples are not
 specific to Python but some of the instructions are specific to python.
 
+The presentation `can be found here. <./presentation/home.md>`_
+
 Running Tests
 -------------
 
-This project requires `setuptools<https://pypi.python.org/pypi/setuptools>`_.
-`Installation instructions can be found here<https://pypi.python.org/pypi/setuptools#installation-instructions>`_ if
+This project requires `setuptools <https://pypi.python.org/pypi/setuptools>`_.
+`Installation instructions can be found here <https://pypi.python.org/pypi/setuptools#installation-instructions>`_ if
 your Python installation did not already include setuptools
 
 .. code:: bash
