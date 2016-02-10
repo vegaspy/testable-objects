@@ -16,4 +16,4 @@ can remember a code base they created or inherited that was untestable. Bugs wer
 overly complex objects creating unintended side effects when the simplest change was made. Using proper
 Object Oriented techniques can make your code more testable and therefore more reliable and more maintainable.
 
-[Prev](home.md) | [Next](why-focus-on-objects-not-tests.md)
+[Prev](home.md) | [Next](blueprint-to-a-good-object.md)
