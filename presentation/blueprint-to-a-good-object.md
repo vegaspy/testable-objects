@@ -43,4 +43,4 @@ between objects. Design patterns such as
 [strategy](https://en.wikipedia.org/wiki/Strategy_pattern) can be used to abstract functionality to a manner similar to
 [middleware](https://en.wikipedia.org/wiki/Middleware).
 
-[Prev](why-focus-on-objects-not-tests.md) [Next](isolate-testing.md)
+[Prev](blueprint-to-a-good-object.md) | [Next](isolate-testing.md)

@@ -9,4 +9,4 @@ Adam’s Rules
 * If you have more than 15-20 lines of code bootstrapping your test, your object is too complicated
 * If you have to modify more that a few tests for a single method modification, your object is too complicated
 
-[Prev](isolate-testing.md) [Next](code-examples.md)
+[Prev](isolate-testing.md) | [Next](code-examples.md)

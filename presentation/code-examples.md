@@ -19,3 +19,5 @@ that adhere to the [good object blueprint](blueprint-to-a-good-object.md).
 There are examples of bad tests that do not use mocks in the ```GoodCarBadTest``` test class as well as
 examples of fairly good tests using mocks and stubs in the ```GoodCarGoodTest``` test class in the
 [good_car_tests.py](../tests/good_car_tests.py) test file.
+
+[Prev](adams-rules.md)

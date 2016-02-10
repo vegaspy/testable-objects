@@ -75,4 +75,4 @@ without re-testing functionality. The prior example could be handled like this:
             assertTrue(val)
 
 
-[Prev](blueprint-to-a-good-object.md) [Next](adams-rules.md)
+[Prev](blueprint-to-a-good-object.md) | [Next](adams-rules.md)
